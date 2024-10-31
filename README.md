@@ -1,5 +1,5 @@
 👋 ¡Hola! Soy Lucía.
-Bienvenido/a a mi repositorio de proyectos personales y profesionales
+Bienvenido/a a mi repositorio de proyectos personales y profesionales.  
 Soy Analista y Ciencífica de datos, con un enfoque en procesamiento de lenguaje natural. Aquí encontrarás una colección de proyectos que representan mi trayectoria, habilidades y áreas de especialización.
 
 🚀 Acerca de mí  
