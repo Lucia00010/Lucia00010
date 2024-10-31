@@ -9,7 +9,7 @@ Soy Analista y Ciencífica de datos, con un enfoque en procesamiento de lenguaje
 🌱 Actualmente aprendiendo sobre redes neuronales profundas  
 🌐 Comprometido con el aprendizaje continuo y la colaboración en proyectos de código abierto.  
 
-📂 Proyectos Destacados
+📂 Proyectos Destacados  
 Dectección de Fake News - Un modelo de clasificación para identificar noticias falsas utilizando técnicas de NLP y redes neuronales.  
 Enlace: https://github.com/Lucia00010/Deteccion-de-Fake-News  
 
