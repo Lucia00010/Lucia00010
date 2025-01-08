@@ -7,7 +7,7 @@ Soy Analista y Ciencífica de datos, con un enfoque en procesamiento de lenguaje
 🔍 Actualmente trabajo en varios proyectos con SQL, python y Power BI.  
 🎓 Formación en Data analysis & science, máster en Pontia.tech.  
 🌱 Actualmente aprendiendo sobre redes neuronales profundas  
-🌐 Comprometido con el aprendizaje continuo y la colaboración en proyectos de código abierto.  
+🌐 Comprometida con el aprendizaje continuo y la colaboración en proyectos de código abierto.  
 
 # 📂 Proyectos Destacados  
 Dectección de Fake News - Un modelo de clasificación para identificar noticias falsas utilizando técnicas de NLP y redes neuronales.  
